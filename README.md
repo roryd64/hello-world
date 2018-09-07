@@ -2,7 +2,7 @@
 Meet and greet, me and mine, directions for shared things, summary of repos I work with
 
 # Meet and greet
-Variously Rory, Myth, Dad, Bro, Oi. I am an infrastructure Manager based in North Scotland.  I kayak, play bass guitar, fish when I can, fly (computer) spacecraft, and worship with a Baptist affiliation.
+Old, Grey, Bearded, Balding, Bespectacled.  Variously Rory, Myth, Dad, Bro, Oi. I am an infrastructure Manager based in North Scotland.  I kayak, play bass guitar, fish when I can, fly (computer) spacecraft, and worship with a Baptist affiliation.
 
 # Me and mine
 Married, kids, kids-in-law, foster-kids, pet(occasional plural), complicated extended family, eldery parent/in-laws in poor health, very proud uncle.
